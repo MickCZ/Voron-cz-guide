@@ -60,6 +60,8 @@ Strukturovaný seznam zdrojů pro nákup dílů ke stavbě nebo upgrade tiskáre
 
 ### Kamery
 
+[HIKVISION WebCam DS-U12 2MP - softcom.cz](https://www.softcom.cz/eshop/hikvision-webcam-ds-u12-2mp-1920x1080-30fps-usb-2-0_d258935.html)
+
 [Waveshare IMX179 - rpishop.cz](https://rpishop.cz/waveshare/1046-waveshare-imx179-8mpx-usb-kamera-a.html)
 
 [Generic RPi 3/4 kamera - Aliexpress.com](https://www.aliexpress.com/item/4000923077057.html)
@@ -143,6 +145,8 @@ Konektor na krokovém motoru, který má odpojitelný kabel.
 
 [eMMC ve tvaru microSD karty - rpishop.cz](https://rpishop.cz/emmc-micro-sd/3426-uugear-raspikey-32gb-emmc-pamet-pro-raspberry-pi.html)
 
+[Samsung MicroSDXC 128GB PRO Plus - alza.cz](https://www.alza.cz/samsung-microsdxc-128gb-pro-plus-sd-adapter-2023-d7679124.htm)
+
 ## Hardware
 
 ### Nářadí
@@ -165,7 +169,7 @@ Konektor na krokovém motoru, který má odpojitelný kabel.
 
 ### Profily
 
-- [ ] Doplnit
+[AL profily ALTRAX 2020 - hobby-store.pl](https://hobby-store.pl/en/aluminium-profiles/aluminium-profile-2020-type-t-slot)
 
 ### Spojovací materiál
 
@@ -222,6 +226,8 @@ Voron default: M3x5x4
 ### Zakrytování tiskárny
 
 [Kartonplast 3mm - obalove-materialy.cz](https://www.obalove-materialy.cz/kartonplastovy-proklad-3-mm-80-120-cm-transparentni-600-g)
+
+[Kompozit ACP bond 3mm - dencop.cz](https://eshop.dencop.cz/acp-bond-al0-21-3x1500x3050cern-lesk9005-cerna9005/)
 
 #### Magnety
 
